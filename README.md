@@ -18,17 +18,17 @@
 
 *💛 Image Preview 💛*
 
-![captura](https://user-images.githubusercontent.com/54015740/120563413-22d51000-c3ce-11eb-8746-06b8d90d943e.jpg)
+![Demo](https://user-images.githubusercontent.com/54015740/120563413-22d51000-c3ce-11eb-8746-06b8d90d943e.jpg)
 
 
 ---
-The main purpose of the project [ProjectReview](https://sheylapozo.github.io/ProjectReview/) was for me to develop some hands on work as a code reviewer, using my previous knokledge working with Html, CSS, and linters, which also serves as practice in documenting my work in a professional way, with the learning objectives of using the best practices in HTML code, semantic HTML tags, CSS selectors in a correct way, CSS box model, and to perform a code review for myself on a past project for experience.
+The main purpose of the project [ProjectReview](https://sheylapozo.github.io/ProjectReviewing/) was for me to develop some hands on work as a code reviewer, using my previous knokledge working with Html, CSS, and linters, which also serves as practice in documenting my work in a professional way, with the learning objectives of using the best practices in HTML code, semantic HTML tags, CSS selectors in a correct way, CSS box model, and to perform a code review for myself on a past project for experience.
 -------
 ---
 
 ## 💖 Live Demo
 
-[ProjectReview](https://sheylapozo.github.io/ProjectReview/) 
+[ProjectReview](https://sheylapozo.github.io/ProjectReviewing/) 
 
 ---
 
@@ -54,7 +54,7 @@ You don't know how to fork a project? [Click here](https://help.github.com/artic
 Contributions, issues, and feature requests are welcome!
 
 
-Feel free to check the [issues page](https://github.com/sheylaPozo/Hello-Microverse/issues).
+Feel free to check the [issues page](https://github.com/sheylaPozo/ProjectReviewing/issues).
 
 
 ## 💗 Show your support
@@ -69,4 +69,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+This project is [MIT](./MIT.md) licensed.
